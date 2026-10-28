@@ -1,0 +1,14 @@
+
+.env
+.env.*
+!.env.example
+
+# Backup database
+*.sql
+*.sql.gz
+*.dump
+
+# File sementara
+*.log
+.DS_Store
+Thumbs.db
